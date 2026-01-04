@@ -19,13 +19,7 @@ I’m **Backend & Cloud Engineer** and fan of **Artick monkeys**
 
 ### Currently vibing with 🎧
 
-<img
-  src="https://raw.githubusercontent.com/DavidIriondo/DavidIriondo/main/assets/spotify.svg"
-  width="460"
-/>
-
-
-
-
-
+<a href="https://open.spotify.com/intl-es/track/2AT8iROs4FQueDv2c8q2KE?si=3ca29440fad44b25">
+  <img src="./assets/spotify.svg" width="460"/>
+</a>
 
