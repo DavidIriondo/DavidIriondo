@@ -88,10 +88,10 @@
     <div xmlns="http://www.w3.org/1999/xhtml" class="spotify-embed-container">
       
       <div class="album-cover-container">
-        <img
-          src="https://raw.githubusercontent.com/DavidIriondo/DavidIriondo/main/assets/album-cover.jpg"
-          alt="Album cover"
-          class="album-cover-img"
+        <image
+          href="https://raw.githubusercontent.com/davidiriondo905/davidiriondo905/main/assets/album-cover.jpg"
+          x="16" y="16" width="120" height="120"
+          preserveAspectRatio="xMidYMid slice"
         />
       </div>
 
