@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm David Iriondo 👋
 
 
-I’m **Backend & Cloud Engineer** and fan of **Artick monkeys**
+**Backend & Cloud Engineer** and fan of **Artick monkeys**
 
 - 👨‍💻 I’m currently working at **Soltel Group**
 - 🌱 I’m currently specializing in **Cloud Computing and Cloud Architecture**, with a strong focus on AWS, infrastructure design, and cloud-native systems
