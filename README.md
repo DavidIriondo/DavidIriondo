@@ -19,7 +19,10 @@ I’m **Backend & Cloud Engineer** and fan of **Artick monkeys**
 
 ### Currently vibing with 🎧
 
-[![Spotify](https://img.shields.io/badge/Now_Playing-Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/davidiriondo905)
+<img
+  src="https://raw.githubusercontent.com/DavidIriondo/DavidIriondo/main/assets/spotify.svg"
+  width="460"
+/>
 
 
 
