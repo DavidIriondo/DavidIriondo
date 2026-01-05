@@ -17,7 +17,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/david-iriondo-palacios/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:davidiriondopalacios@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
-### Currently vibing with Artick monkeys 🎧
+### Currently vibing with Arctic monkeys 🎧
 
 <a href="https://open.spotify.com/intl-es/track/2AT8iROs4FQueDv2c8q2KE?si=3ca29440fad44b25">
   <img src="./assets/spotify.svg" width="460"/>
