@@ -3,10 +3,11 @@
 *Good software isn’t about languages, but about solid design, systems thinking, architecture, and execution*
 
 ### About me 👨‍💻
-- I’m currently working at **Soltel Group**
-- I’m currently specializing in **Cloud Computing and Cloud Architecture**, with a strong focus on AWS, infrastructure design, and cloud-native systems
-- I’m looking to collaborate with companies building **innovative, scalable, and cloud-driven products**, where system design, performance, and long-term maintainability matter
-
+- I'm working in IT since I was 25 and currently specializing in **Cloud Computing and Cloud Architecture** 
+- In my free time I like to workout, hiking, swimming
+- I'm learning to play guitar inspired by arctic mokeys, my favorite band
+- I've decided to start publishing my personal projects. Many of them are based on my professional experience. Also I have a blog where I'll talk about technology related topics, projects, and random subject.
+  
 ### Check out my blog 👇
 
 <a target="_blank" href="https://medium.com/@davidiriondopalacios"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
