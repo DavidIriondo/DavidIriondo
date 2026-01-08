@@ -1,10 +1,10 @@
-## Hi there, I'm David Iriondo Backend & Cloud Engineer 👋
+## Hi there, I'm David Iriondo | Backend developer 👋
 
 *Good software isn’t about languages, but about solid design, systems thinking, architecture, and execution*
 
 ### About me 👨‍💻
 - I'm working in IT since I was 25 and currently specializing in **Cloud Computing and Cloud Architecture** 
-- In my free time I like to workout, hiking, swimming
+- In my free time I like to workout, hiking, swimming, any activity outside of the office
 - I'm learning to play guitar inspired by arctic mokeys, my favorite band
 - I've decided to start publishing my personal projects. Many of them are based on my professional experience. Also I have a blog where I'll talk about technology related topics, projects, and random subject.
   
